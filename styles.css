@@ -128,3 +128,8 @@ font-size: 0.8rem;
 .footer ul {
     padding-inline-start:  0px;
 }
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
